@@ -1,12 +1,12 @@
 # main text of home
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: enoD
+bio: "I'm a software developer who's trying to embrace devops culture."
 
 # if it's an external image, update below for true
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://sergiokopplin.github.io/indigo
+url: http://enodgithub.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -14,23 +14,23 @@ permalink: /:title/
 markdown: kramdown
 highlighter: rouge
 
-analytics-google: 'UA-MYANALYTICS'
+analytics-google: UA-75258226-1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: enodgithub
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: enqush
+twitter: enqush
 # google: mygoogle
-# instagram: myinstagram
+instagram: enqush
 # pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-email: myemail@gmail.com
+linkedin: enqush
+# youtube: myyoutube
+# spotify: myspotify
+github: enod
+# medium: medium
+email: enod2008@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -38,8 +38,8 @@ email: myemail@gmail.com
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
+paginate: 5
+paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
