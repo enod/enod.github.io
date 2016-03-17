@@ -6,7 +6,7 @@ bio: "I'm a software developer who's trying to embrace devops culture."
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://enodgithub.github.io
+url: http://enod.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
