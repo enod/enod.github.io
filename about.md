@@ -2,10 +2,11 @@
 title: About
 layout: page
 permalink: /about/index.html
+published: true
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I'm a software developer(mostly on web stack) work for startup company based in Taipei. I've lived in Hsinchu last 2 years and got my MSc degree from NTHU. At the moment I’m living in XinYi District, close to the 101 building and the entrance to Elephant Mountain.</p>
+<p>I'm a software developer who works for fintech startup company based in Taipei. I've lived in Hsinchu past 2 years and got my MSc degree from NTHU. At the moment I’m living in XinYi District, close to the 101 building and the entrance to Elephant Mountain.</p>
 
 <h2>Skills</h2>
 <b>Programming</b>
@@ -13,8 +14,7 @@ permalink: /about/index.html
 	<li>HTML/CSS</li>
 	<li>Javascript</li>
 	<li>Python</li>
-	<li>Ruby</li>
-	<li>MySQL, Postgres, MongoDB, RethinkDB</li>
+    <li>Ruby</li>
 	<li>Git</li>
 </ul>
 
@@ -29,19 +29,19 @@ permalink: /about/index.html
 <b>Devops</b>
 <ul class="skill-list3">
 	<li>Ansible</li>
-	<li>Zabbix</li>
-	<li>New relic</li>
+    <li>Zabbix</li>
 	<li>Vagrant</li>
 	<li>Docker</li>
 	<li>ELK/EFK</li>
 	<li>Git</li>
 </ul>
 
-<b>Other</b>
+<b>Data analytics</b>
 <ul class="skill-list4">
-	<li>NLTK</li>
-	<li>FFMPEG/DASH/TLS</li>
-	<li>Data analysis/visualization</li>
+	<li>NLTK,CoreNLP</li>
+	<li>Pandas</li>
+	<li>Scikit learn</li>
+    <li>Numpy</li>
 </ul>
 
 <h2>Project samples</h2>
