@@ -4,8 +4,7 @@ layout: post
 date: 2016-07-04 00:17
 image: '/assets/images/'
 description:
-tag:
-blog: true
+blog: false
 jemoji:
 ---
 
