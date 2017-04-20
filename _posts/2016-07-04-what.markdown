@@ -1,11 +1,20 @@
 ---
-title: "What"
+title: What
 layout: post
 date: 2016-07-04 00:17
 image: '/assets/images/'
 description:
 blog: false
 jemoji:
+=======
+date: '2016-07-04 00:17'
+image: /assets/images/
+description: null
+tag: null
+blog: true
+jemoji: null
+published: false
+
 ---
 
 Монгол Улсын Ерөнхийлөгч өнөөдөр зарлиг гаргаж УИХ-ын долоо дахь удаагийн сонгуулийн Анхдугаар чуулганыг 2016 оны долдугаар сарын 5-ны өдрийн 11:00 цагт товлон зарлав.
